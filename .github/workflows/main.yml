@@ -31,4 +31,3 @@ jobs:
         run: |
           echo "Starting Telegram bot..."
           python forward.py
-          
