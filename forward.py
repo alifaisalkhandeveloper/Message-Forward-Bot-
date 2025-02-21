@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 TOKEN = '7788779108:AAHsoPD5U4i7OxvpL-St0KvIMNZIv2Uv28E'
 
 # Admin's user ID (replace with actual admin user ID)
-ADMIN_USER_ID = '6966950771'
+ADMIN_USER_ID = '6966950770'
 
 # File to store user IDs
 USER_FILE = 'users.txt'
