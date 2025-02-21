@@ -1,4 +1,4 @@
-name: Run Telegram
+name: Run Bot
 
 on:
   push:
